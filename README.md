@@ -6,7 +6,7 @@
 </p>
 
 ## 💻 Projeto
-Desafio: Criação do Space Cream na versão Desktop do modulo Avançado no HTML e CSS - Explore Rocketseat
+4º Desafio: Criação do Space Cream na versão Desktop do modulo Avançado no HTML e CSS - Explore Rocketseat
 
 Nesse desafio, foi recriado uma aplicação de uma página de sorveteria na versão Desktop utilizando o css avançado, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos:
 - Grid;
